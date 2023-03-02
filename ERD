@@ -37,3 +37,6 @@ titles
 -
 title_id (PK) FK >- employees.emp_title_id
 title
+
+
+https://app.quickdatabasediagrams.com/#/
